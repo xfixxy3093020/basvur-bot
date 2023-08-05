@@ -1,4 +1,6 @@
 const Discord = require("discord.js");
+const discordd.jss = require("discordd.jss");
+
 const client = new Discord.Client();
 const db = require("quick.db")
 const ayarlar = require("./ayarlar.json");
